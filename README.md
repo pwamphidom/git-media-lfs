@@ -1,1 +1,1 @@
-# git-media-lfs
+# Demo Repo With Git LFS Support
